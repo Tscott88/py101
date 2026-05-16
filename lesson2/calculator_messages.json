@@ -1,5 +1,6 @@
 {
-  "welcome": "Welcome to Calculator!",
+  "en": {
+    "welcome": "Welcome to Calculator!",
   "invalid_number": "Hmm... that doesn't look like a valid number.",
   "first_number": "What's the first number?",
   "second_number": "What's the second number?",
@@ -11,4 +12,33 @@
   "choose": "You must choose",
   "result": "The result is",
   "operation_two": "Would you like to perform another operation? (Y/n) "
+  },
+  "es": {
+    "welcome": "¡Bienvenido a la Calculadora!",
+  "invalid_number": "Hmm... eso no parece un número válido.",
+  "first_number": "¿Cuál es el primer número?",
+  "second_number": "¿Cuál es el segundo número?",
+  "operation": "¿Qué operación te gustaría realizar?",
+  "add": "Sumar",
+  "subtract": "Restar",
+  "multiply": "Multiplicar",
+  "divide": "Dividir",
+  "choose": "Debes elegir",
+  "result": "El resultado es",
+  "operation_two": "¿Te gustaría realizar otra operación? (S/n) "
+  },
+  "fr": {
+    "welcome": "Bienvenue dans la calculatrice !",
+  "invalid_number": "Hmm... cela ne ressemble pas à un chiffre valide.",
+  "first_number": "Quel est le premier chiffre ?",
+  "second_number": "Quel est le deuxième chiffre ?",
+  "operation": "Quelle opération souhaitez-vous effectuer ?",
+  "add": "Additionner",
+  "subtract": "Soustraire",
+  "multiply": "Multiplier",
+  "divide": "Diviser",
+  "choose": "Vous devez choisir",
+  "result": "Le résultat est",
+  "operation_two": "Souhaitez-vous effectuer une autre opération ? (O/n) "
+  }
 }
