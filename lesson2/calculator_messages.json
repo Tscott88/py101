@@ -1,0 +1,14 @@
+{
+  "welcome": "Welcome to Calculator!",
+  "invalid_number": "Hmm... that doesn't look like a valid number.",
+  "first_number": "What's the first number?",
+  "second_number": "What's the second number?",
+  "operation": "What operation would you like to perform?",
+  "add": "Add",
+  "subtract": "Subtract",
+  "multiply": "Multiply",
+  "divide": "Divide",
+  "choose": "You must choose",
+  "result": "The result is",
+  "operation_two": "Would you like to perform another operation? (Y/n) "
+}
